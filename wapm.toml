@@ -1,0 +1,15 @@
+[package]
+name = "bketelsen/hello"
+version = "0.1.0"
+description = "Hello World, from Zig"
+repository = "https://github.com/bketelsen/hello-wapi"
+readme = "README.md"
+
+[[module]]
+name = "hello"
+source = "hello.wasm"
+abi = "wasi"
+
+[[command]]
+name = "hello"
+module = "hello"
