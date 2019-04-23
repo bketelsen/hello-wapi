@@ -7,7 +7,7 @@ This is a simple WASI compatible WASM Module compiled from Zig.
 
 ```
 wapm install bketelsen/hello
-wapm run bketelsen/hello hello
+wapm run hello
 ```
 
 ## Compile
