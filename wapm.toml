@@ -1,6 +1,6 @@
 [package]
 name = "bketelsen/hello"
-version = "0.1.0"
+version = "0.1.2"
 description = "Hello World, from Zig"
 repository = "https://github.com/bketelsen/hello-wapi"
 readme = "README.md"
